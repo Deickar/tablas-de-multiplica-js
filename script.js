@@ -57,3 +57,23 @@ for (let i = 1; i <= 10; i++) {
 }
 // salto de linea
 console.log("\n");
+
+//tabla de multiplicar del 7
+let numero7 = 7;
+console.log("Tabla del 7");
+// ejemplo con for
+for (let i = 1; i <= 10; i++) {
+  console.log(numero7, "x", i, "=", numero7 * i);
+}
+// salto de linea
+console.log("\n");
+
+//tabla de multiplicar del 8
+let numero8 = 8;
+console.log("Tabla del 8");
+// ejemplo con for
+for (let i = 1; i <= 10; i++) {
+  console.log(numero8, "x", i, "=", numero8 * i);
+}
+// salto de linea
+console.log("\n");
