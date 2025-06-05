@@ -86,7 +86,7 @@ for (let i = 1; i <= 10; i++) {
   console.log(numero9, "x", i, "=", numero9 * i);
 }
 //salto de linea
-console.log("/n");
+console.log("\n");
 
 //tabla de multiplicar del 10
 let numero10 = 10;
@@ -96,4 +96,4 @@ for (let i = 1; i <= 10; i++) {
   console.log(numero10, "x", i, "=", numero10 * i);
 }
 //salto de linea
-console.log("/n");
+console.log("\n");
