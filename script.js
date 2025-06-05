@@ -21,7 +21,7 @@ let nuemero3 = 3;
 console.log("Tabla del 3");
 // utilzamos el bucle for para hacer la tabla
 for (let i = 1; i <= 10; i++) {
-  console.log(nuemero3, "x", i, "=", nuemero1 * i);
+  console.log(nuemero3, "x", i, "=", nuemero3 * i);
 }
 // salto de linea
 console.log("\n");
@@ -31,7 +31,7 @@ let nuemero4 = 4;
 console.log("Tabla del 4");
 // utilzamos el bucle for para hacer la tabla
 for (let i = 1; i <= 10; i++) {
-  console.log(nuemero4, "x", i, "=", nuemero1 * i);
+  console.log(nuemero4, "x", i, "=", nuemero4 * i);
 }
 // salto de linea
 console.log("\n");
