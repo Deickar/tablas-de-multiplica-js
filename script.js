@@ -44,6 +44,8 @@ console.log("Tabla del 5");
 for (let i = 1; i <= 10; i++) {
   console.log(numero5, "x", i, "=", numero5 * i);
 }
+// salto de linea
+console.log("\n");
  
 //tabla de multiplica del 6
 let numero6 = 6;
@@ -52,4 +54,6 @@ console.log("Tabla del 6");
 for (let i = 1; i <= 10; i++) {
   console.log(numero6, "x", i, "=", numero6 * i);
 }
+// salto de linea
+console.log("\n");
 
