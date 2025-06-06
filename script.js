@@ -97,3 +97,12 @@ for (let i = 1; i <= 10; i++) {
 }
 //salto de linea
 console.log("\n");
+
+let numero11 = 11;
+console.log("Tabla del 13");
+//utilizamos el bucle for para hacer la tabla
+for (let i = 1; i <= 10; i++) {
+  console.log(numero11, "x", i, "=", numero11 * i);
+}
+//salto de linea
+console.log("\n");
