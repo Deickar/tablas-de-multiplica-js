@@ -106,3 +106,7 @@ for (let i = 1; i <= 10; i++) {
 }
 //salto de linea
 console.log("\n");
+
+console.log("Jean-Paul");
+
+console.log("\n");
