@@ -106,3 +106,9 @@ for (let i = 1; i <= 10; i++) {
 }
 //salto de linea
 console.log("\n");
+
+
+
+
+
+console.log("prueba 1");
