@@ -107,8 +107,14 @@ for (let i = 1; i <= 10; i++) {
 //salto de linea
 console.log("\n");
 
+<<<<<<< HEAD
 
 
 
 
 console.log("prueba 1");
+=======
+console.log("Jean-Paul");
+
+console.log("\n");
+>>>>>>> c64714e6e9a67ddd37da4defd3785fa83d4d01fb
